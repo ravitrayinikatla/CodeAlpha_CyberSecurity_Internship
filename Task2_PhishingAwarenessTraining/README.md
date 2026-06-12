@@ -29,7 +29,11 @@ Understand common phishing techniques and create awareness materials to educate 
 
 # Files Included
 
-* `phishing_awareness.pdf` – Awareness report.
+* `README.md` – Documentation describing the objectives, phishing techniques studied, preventive measures, tools used, and outcomes of the phishing awareness training.
+
+* `Phishing_Awareness_Training (2).pdf` – Detailed report covering various phishing attacks, social engineering techniques, and best practices for prevention.
+
+* `phishing_output.png` – Screenshot illustrating phishing examples, awareness materials, and execution results related to the phishing awareness training.
 
 # Tools Used
 
