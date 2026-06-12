@@ -4,8 +4,6 @@ import os
 from flask import Flask, request, session, redirect, render_template_string
 
 app = Flask(__name__)
-
-# [VULN-1] Hardcoded secret key — trivially guessable
 app.secret_key = "supersecret123"
 
 # [VULN-2] Hardcoded admin credentials in source code
