@@ -1,17 +1,49 @@
-# Basic Network Sniffer
+# Task 1: Basic Network Sniffer
 
-## Objective
-To capture and analyze network packets using Python.
+# Objective
 
-## Tools Used
-- Python
-- Scapy
+Develop a packet sniffer to capture and analyze network traffic for educational and security analysis purposes.
 
-## Features
-- Captures network packets
-- Displays source and destination IP addresses
-- Identifies protocols
-- Analyzes packet information
+# Programming Language
 
-## Outcome
-Successfully captured and analyzed network traffic to understand how data flows through a network.
+* Python
+
+# Application Developed
+
+* Basic Network Packet Sniffer
+
+# Methodology
+
+* Packet Capture
+* Protocol Analysis
+* Header Inspection
+
+# Features
+
+1. Captures network packets.
+2. Displays source and destination IP addresses.
+3. Identifies protocols used.
+4. Monitors network traffic.
+5. Provides packet analysis output.
+
+# Files Included
+
+* `network_sniffer.py` – Python implementation of the packet sniffer.
+* `output.png` – Screenshots showing packet capture results.
+
+# Tools Used
+
+* Python
+* Scapy
+* VS Code
+
+# References
+
+* Scapy Documentation
+* Python Official Documentation
+
+# Outcome
+
+Successfully developed a basic packet sniffer capable of capturing and analyzing network traffic.
+
+
