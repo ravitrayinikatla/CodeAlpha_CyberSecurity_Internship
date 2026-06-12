@@ -1,62 +1,46 @@
 # CodeAlpha_CyberSecurity_Internship
+
 Cyber Security Internship tasks completed for CodeAlpha, including Basic Network Sniffer, Phishing Awareness Training, and Secure Coding Review.
 
 # Objective
 
-Perform a secure code review of a Python Flask web application to identify security vulnerabilities and recommend remediation measures.
+Gain practical experience in cybersecurity through network traffic analysis, phishing awareness, and secure coding practices while applying industry-standard methodologies and tools.
 
-# Programming Language
+# Repository Structure
 
-* Python
-
-# Application Audited
-
-* Flask Login Application (`vulnerable_app.py`)
-
-# Methodology
-
-* Manual Code Inspection
-* Static Analysis using Bandit
-* Reference Framework: OWASP Top 10 (2021)
-
-# Vulnerabilities Identified
-
-1. SQL Injection
-2. Cross-Site Scripting (XSS)
-3. Hardcoded Credentials
-4. Weak Password Hashing (MD5)
-5. Missing Authentication
-6. Missing Authorization
-7. Insecure File Upload
-8. Debug Mode Enabled
-9. Hardcoded Secret Key
-10. Server Exposed on All Interfaces
-
-# Files Included
-
-* `vulnerable_app.py` – Intentionally vulnerable Flask application.
-* `security_review_report.pdf` – Detailed security review report.
-* `output.png` – Screenshots and execution results.
+```text
+CodeAlpha_CyberSecurity_Internship
+│
+├── Task1_BasicNetworkSniffer
+├── Task2_PhishingAwarenessTraining
+├── Task3_SecureCodingReview
+└── README.md
+```
 
 # Tools Used
 
 * Python
+* Scapy
 * Flask
-* Bandit (SAST Tool)
+* Bandit (Static Application Security Testing Tool)
 * VS Code
+* Git
+* GitHub
 
 # References
 
 * OWASP Top 10 (2021)
-* OWASP Testing Guide
+* OWASP Web Security Testing Guide
 * Flask Security Documentation
+* Scapy Documentation
+* Bandit Documentation
+* Cybersecurity and Infrastructure Security Agency (CISA)
 
 # Outcome
 
-Successfully performed a secure coding review, documented vulnerabilities, and provided recommendations and remediation steps for safer code.
+Successfully completed all assigned tasks during the CodeAlpha Cyber Security Internship and gained practical experience in network traffic analysis, phishing awareness, and secure coding practices.
 
 # Author
 
 Katla Ravitrayini:https://github.com/ravitrayinikatla
-
 
