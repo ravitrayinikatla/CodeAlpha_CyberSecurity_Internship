@@ -1,4 +1,4 @@
-
+# Task 3: Secure Coding Review
 
 # Objective
 
@@ -33,9 +33,9 @@ Perform a secure code review of a Python Flask web application to identify secur
 
 # Files Included
 
-* `vulnerable_app.py` – Intentionally vulnerable Flask application.
-* `security_review_report.pdf` – Detailed security review report.
-* `output.png` – Screenshots and execution results.
+* `vulnerable_app.py` – Intentionally vulnerable Flask application used for security assessment.
+* `security_review_report.pdf` – Detailed report containing identified vulnerabilities and remediation recommendations.
+* `output.png` – Screenshot showing the execution of the vulnerable application and/or static analysis results.
 
 # Tools Used
 
@@ -53,4 +53,6 @@ Perform a secure code review of a Python Flask web application to identify secur
 # Outcome
 
 Successfully performed a secure coding review, documented vulnerabilities, and provided recommendations and remediation steps for safer code.
+
+
 
