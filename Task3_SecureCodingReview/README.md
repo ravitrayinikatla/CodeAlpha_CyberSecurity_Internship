@@ -33,9 +33,15 @@ Perform a secure code review of a Python Flask web application to identify secur
 
 # Files Included
 
-* `vulnerable_app.py` – Intentionally vulnerable Flask application used for security assessment.
-* `security_review_report.pdf` – Detailed report containing identified vulnerabilities and remediation recommendations.
-* `output.png` – Screenshot showing the execution of the vulnerable application and/or static analysis results.
+* `README.md` – Documentation describing the objective, methodology, identified vulnerabilities, tools used, and outcomes of the secure coding review.
+
+* `vulnerable_app.py` – Intentionally vulnerable Flask application used for performing the security assessment.
+
+* `security_review_report.docx` – Detailed report containing identified vulnerabilities, severity levels, recommendations, and remediation steps.
+
+* `Secure_coding_output.png` – Screenshot showing the execution output of the vulnerable application and security analysis results.
+
+* `securecodingpic.png` – Additional screenshot demonstrating the application interface and findings during the secure code review.
 
 # Tools Used
 
