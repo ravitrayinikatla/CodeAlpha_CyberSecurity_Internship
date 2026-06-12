@@ -28,8 +28,11 @@ Develop a packet sniffer to capture and analyze network traffic for educational 
 
 # Files Included
 
-* `network_sniffer.py` – Python implementation of the packet sniffer.
-* `output.png` – Screenshots showing packet capture results.
+* `README.md` – Documentation describing the objective, methodology, tools used, and outcomes of the Basic Network Sniffer project.
+
+* `network_sniffer.py` – Python script developed to capture and analyze network packets for educational and security analysis purposes.
+
+* `network_sniffer_output.png` – Screenshot showing packet capture results and network traffic analysis performed by the packet sniffer.
 
 # Tools Used
 
