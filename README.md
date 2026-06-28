@@ -1,15 +1,15 @@
-# CodeAlpha_CyberSecurity_Internship
+# Security-Analysis
 
-Cyber Security Internship tasks completed for CodeAlpha, including Basic Network Sniffer, Phishing Awareness Training, and Secure Coding Review.
+A collection of cybersecurity security analysis tasks and projects focused on network traffic monitoring, phishing awareness, and secure application development using industry-standard tools and best practices.
 
-# Objective
+## Objective
 
-Gain practical experience in cybersecurity through network traffic analysis, phishing awareness, and secure coding practices while applying industry-standard methodologies and tools.
+Develop practical cybersecurity skills by performing network traffic analysis, phishing detection and awareness, and secure coding assessments while applying real-world security methodologies and tools.
 
-# Repository Structure
+## Repository Structure
 
 ```text
-CodeAlpha_CyberSecurity_Internship
+Security-Analysis
 │
 ├── Task1_BasicNetworkSniffer
 ├── Task2_PhishingAwarenessTraining
@@ -17,17 +17,37 @@ CodeAlpha_CyberSecurity_Internship
 └── README.md
 ```
 
-# Tools Used
+## Tools Used
 
 * Python
 * Scapy
 * Flask
-* Bandit (Static Application Security Testing Tool)
+* Bandit (Static Application Security Testing)
 * VS Code
 * Git
 * GitHub
 
-# References
+## Security Analysis Tasks
+
+### Task 1 – Basic Network Sniffer
+
+* Captured and analyzed network packets.
+* Monitored network traffic using Scapy.
+* Identified protocols, source and destination IP addresses, and packet details.
+
+### Task 2 – Phishing Awareness Training
+
+* Identified common phishing techniques.
+* Analyzed phishing emails and fraudulent websites.
+* Documented best practices for recognizing and preventing phishing attacks.
+
+### Task 3 – Secure Coding Review
+
+* Performed static code analysis using Bandit.
+* Identified common security vulnerabilities.
+* Applied secure coding practices to improve application security.
+
+## References
 
 * OWASP Top 10 (2021)
 * OWASP Web Security Testing Guide
@@ -36,11 +56,12 @@ CodeAlpha_CyberSecurity_Internship
 * Bandit Documentation
 * Cybersecurity and Infrastructure Security Agency (CISA)
 
-# Outcome
+## Outcome
 
-Successfully completed all assigned tasks during the CodeAlpha Cyber Security Internship and gained practical experience in network traffic analysis, phishing awareness, and secure coding practices.
+Successfully completed multiple cybersecurity security analysis tasks involving network monitoring, phishing awareness, and secure coding review while gaining hands-on experience with industry-standard cybersecurity tools and methodologies.
 
-# Author
+## Author
 
-Katla Ravitrayini:https://github.com/ravitrayinikatla
+**Katla Ravitrayini**
 
+GitHub: https://github.com/ravitrayinikatla
